@@ -52,6 +52,7 @@ article{
     width: 950px;
     height: 500px;
     background-size: 950px;
+    
 }
 h2{
     color: rgb(250, 192, 0);
@@ -61,6 +62,12 @@ p{
 }
 .one{
     background-image: url("1.jpg");
+}
+.two{
+    background-image: url("maxresdefault.jpg")
+}
+.three{
+    background-image: url("2.jpg")
 }
 .logo{
     float: left;
