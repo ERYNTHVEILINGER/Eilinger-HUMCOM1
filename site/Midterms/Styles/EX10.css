@@ -19,6 +19,9 @@ header, nav, article, footer, .sec{
     height: 200px;
     border: 1pt rgb(192, 0, 0) solid;
 }
+h2{
+    text-align: center;
+}
 ul{
     padding: 0px;
     list-style: none;
