@@ -48,22 +48,19 @@ article{
 }
 .one, .two, .three{
     font-size: 13pt;
-    color: white;
+    color: rgb(0, 0, 0);
     width: 950px;
     height: 500px;
     background-size: 950px;
+}
+h2{
+    color: rgb(250, 192, 0);
 }
 p{
     text-indent: 5%;
 }
 .one{
-    background-image: url('Midterms\Image\1.jpg');
-}
-.two{
-    background-image: url("Midterms\Image\maxresdefault.jpg");
-}
-.three{
-    background-image: url("Midterms\Image\header.jpg");
+    background-image: url("1.jpg");
 }
 .logo{
     float: left;
